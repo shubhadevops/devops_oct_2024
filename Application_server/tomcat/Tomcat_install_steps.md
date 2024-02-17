@@ -65,8 +65,7 @@ Sample
   
   
 # Update users information in the tomcat-users.xml file goto tomcat home directory and Add below users using vi tomcat-users.xml
-
-
+/home/ec2-user/apache-tomcat-8.5.98/conf/  first run this cmd to get inside cfg then edit tomcat-user.xml file
 /home/ec2-user/apache-tomcat-8.5.98/conf/tomcat-users.xml file
 
 
