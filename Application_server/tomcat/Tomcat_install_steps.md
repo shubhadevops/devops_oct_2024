@@ -37,7 +37,7 @@ yum install java-11 -y
 - find / -name context.xml
 Usually it will under 2 places, and it neeeds to be changed in both the places
 
-- /home/ec2-user/apache-tomcat-8.5.98/webapps/host-manager/META-INF/context.xml
+-we have to give cd and cmd /home/ec2-user/apache-tomcat-8.5.98/webapps/host-manager/META-INF/context.xml
 - /home/ec2-user/apache-tomcat-8.5.98/webapps/manager/META-INF/context.xml
 
 
